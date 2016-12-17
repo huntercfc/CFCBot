@@ -1,0 +1,2 @@
+# CFCBot
+Bot for Slack
